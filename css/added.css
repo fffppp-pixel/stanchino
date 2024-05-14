@@ -42,3 +42,18 @@
 .link-text :hover {
   font-size: 150%;
 } 
+
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  color: orange;
+
+  /*template*/
+  text-align: center;
+  background-color: #282b2f;
+  padding: 70px 0px;
+
+}
+
