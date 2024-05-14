@@ -22,3 +22,17 @@
 #SXprocessor {
     background-color: blue;
 }
+
+#imgpr {
+    position: relative;
+}
+
+#PrImg {
+    position: relative;
+    display: grid;
+    grid-column: min-content, 1fr, min-content;
+    grid-row: 1fr;
+
+    justify-items: center;
+}
+

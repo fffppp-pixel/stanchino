@@ -7,18 +7,19 @@
   ::-webkit-scrollbar-track {
     box-shadow: inset 0 0 5px grey; 
     
-    background-color: #23127e79;
+    background-color: #414549;
   }
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: rgb(5, 3, 119); 
+    box-shadow: inset 0 0 5px orange; 
+    background: #1e2124;
     
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #120172; 
+    background: #15171a;
   }
 
 
