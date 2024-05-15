@@ -1,5 +1,5 @@
 let arrPr = [{
-    name: "nome",
+    name: "name",
     nCore: "2⁶³",
     speed: "brooom",
     arch: "villa al lago",
