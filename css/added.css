@@ -58,3 +58,11 @@ footer {
 
 }
 
+.home{
+  position: fixed;
+  height: 50px;
+  width: 50px;
+  z-index: 10;
+  padding: 10px;
+}
+
