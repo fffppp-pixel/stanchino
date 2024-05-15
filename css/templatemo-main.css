@@ -133,8 +133,13 @@ a:hover { color: #FF0; }
   font-weight: 700;
   text-decoration: none;
   letter-spacing: 0.5px;
+  scale: 1;
+  transition: 0.5s;
 }
 
+.primary-button :hover {
+  scale: 1.2;
+}
 
 .parallax-content {
   width: 100%;
