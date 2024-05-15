@@ -1,10 +1,14 @@
+
+OGNUNO SCELGA UNA PAGINA E LA RIEMPIA
+
+
 Vanilla Free CSS Template 
 
-LEGGE DI MOORE:
+LEGGE DI MOORE: NIKC
 LA LEGGE DI MOORE E LO SVILUPPO DEI CIRCUITI INTEGRATI
 Sfida alla legge di Moore sui circuiti integrati - Il Progettista Industriale
 
-STORIA E FUNZIONAMENTO DEI PROCESSORI:
+STORIA E FUNZIONAMENTO DEI PROCESSORI: GILIO
 Il Microprocessore: evoluzione
 Che cos'è e come funziona un processore CPU | Informatica e Ingegneria Online 
 
