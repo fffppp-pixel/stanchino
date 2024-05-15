@@ -144,10 +144,10 @@ a:hover { color: #FF0; }
 
 
 .baner-content {
-  opacity: 80%;
+  opacity: 100%;
   padding-top: 30vh;
   text-align: center;
-  background-image: url(../img_new/1st-section.jpg);
+  background-image: url(../img_new/sfondomain.png);
 }
 
 .baner-content h1 {
@@ -180,11 +180,11 @@ a:hover { color: #FF0; }
 
 
 .service-content {
-  opacity: 85%;
+  opacity: 90%;
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 15vh;
-  background-image: url(../img_new/2nd-section.jpg);
+  background-image: url(../img_new/sfondoAr.png);
   background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
@@ -301,7 +301,7 @@ h4, .h4 {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 8vh;
-  background-image: url(../img/4th-section.jpg);
+  background-image: url(../img_new/BaseJoly.png);
   background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
