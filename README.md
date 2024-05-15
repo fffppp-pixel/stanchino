@@ -4,17 +4,20 @@ OGNUNO SCELGA UNA PAGINA E LA RIEMPIA
 
 Vanilla Free CSS Template 
 
-LEGGE DI MOORE: NIKC
+PAGINA 1 -> NICK
+LEGGE DI MOORE: 
 LA LEGGE DI MOORE E LO SVILUPPO DEI CIRCUITI INTEGRATI
 Sfida alla legge di Moore sui circuiti integrati - Il Progettista Industriale
 
-STORIA E FUNZIONAMENTO DEI PROCESSORI: GILIO
-Il Microprocessore: evoluzione
-Che cos'è e come funziona un processore CPU | Informatica e Ingegneria Online 
-
 CIRCUITI INTEGRATI E I PRIMI CHIP IN SILICIO:
 Circuito integrato - Wikipedia 
-Qual è la differenza tra un chip e un circuito integrato? 
+Qual è la differenza tra un chip e un circuito integrato?
+
+
+PAGINA 2 -> GILIO
+STORIA E FUNZIONAMENTO DEI PROCESSORI: 
+Il Microprocessore: evoluzione
+Che cos'è e come funziona un processore CPU | Informatica e Ingegneria Online 
 
 INTEL:
 https://it.wikipedia.org/wiki/Intel 
